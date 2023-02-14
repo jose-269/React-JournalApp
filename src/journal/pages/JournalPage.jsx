@@ -5,7 +5,7 @@ import { NoteView, NothingSelectedView } from "../views";
 
 export const JournalPage = () => {
   return (
-    <JournalLayout>
+    <JournalLayout className="animate__animated animate__fadeIn animate__faster">
       {/* <Typography >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias fugiat possimus laboriosam veniam quisquam nemo fugit blanditiis assumenda quis nihil impedit ducimus, reiciendis inventore et illo vitae eligendi? Iste, quasi!</Typography> */}
 
 
